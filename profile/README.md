@@ -1,9 +1,15 @@
 Hi there 👋
 
-This is the default config! Fight me.
+Welcome to, well, what could could described in these three words: "Barely above adequate".
+I primarily write shiz in JavaScript. Never touched TypeScript, probably never will - no drive to do so, nor because I think TS is inferior in some way. Just not used to it.
 
-🙋‍♀️ Hi, I'm ZombieB.
-🌈 Contribute what you want - this can mean nothing, everything, or anything in between.
-👩‍💻 Use my code however you'd like! It may be a mess of stackoverflow spaghetti, but at least it's mine!
-🍿 My "team", GitHub? You mean my four braincells? (I can be dumb at times.)
-🧙 markdown is **fun** but i won't care unless it's important documentation
+### 'What the fuck is "proxnet"?'
+Short for 'the proxima network', as in Proxima Centauri - the closest star to the sun. Every homelabber has a name for their network!
+
+I thought it would sound cool because strangers from my high school ask me sometimes for game servers, and I'm literally (probably) the closest physical option for hosting.
+It is explicitly written in lowercase. *'aesthetics'*
+
+### 'Your code isn't as shit as you think it is! How can I contribute?'
+Are you a lunatic?
+
+Reality concerning the current state of my fuck-code aside, you can fork & pull or create an issue.
